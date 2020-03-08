@@ -46,3 +46,22 @@
 [5.11.6](./code/Chapter_5/5.11.6.c)  
 [5.11.7](./code/Chapter_5/5.11.7.c)  
 [5.11.8](./code/Chapter_5/5.11.8.c)  
+
+## 第六章
+
+[6.16.1](./code/Chapter_6/6.16.1.c)  
+[6.16.2](./code/Chapter_6/6.16.2.c)  
+[6.16.3](./code/Chapter_6/6.16.3.c)  
+[6.16.4](./code/Chapter_6/6.16.4.c)  
+[6.16.5](./code/Chapter_6/6.16.5.c)  
+[6.16.6](./code/Chapter_6/6.16.6.c)  
+[6.16.7](./code/Chapter_6/6.16.7.c)  
+[6.16.8](./code/Chapter_6/6.16.8.c)  
+[6.16.9](./code/Chapter_6/6.16.9.c)  
+[6.16.10](./code/Chapter_6/6.16.10.c)  
+[6.16.11](./code/Chapter_6/6.16.11.c)  
+[6.16.12](./code/Chapter_6/6.16.12.c)  
+[6.16.13](./code/Chapter_6/6.16.13.c)  
+[6.16.14](./code/Chapter_6/6.16.14.c)  
+[6.16.15](./code/Chapter_6/6.16.15.c)  
+[6.16.16](./code/Chapter_6/6.16.16.c)  
