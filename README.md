@@ -79,3 +79,14 @@
 [7.12.9](./code/Chapter_7/7.12.9.c)  
 [7.12.10](./code/Chapter_7/7.12.10.c)  
 [7.12.11](./code/Chapter_7/7.12.11.c)  
+
+## 第八章
+
+[8.11.1](./code/Chapter_8/8.11.1.c)  
+[8.11.2](./code/Chapter_8/8.11.2.c)  
+[8.11.3](./code/Chapter_8/8.11.3.c)  
+[8.11.4](./code/Chapter_8/8.11.4.c)  
+[8.11.5](./code/Chapter_8/8.11.5.c)  
+[8.11.6](./code/Chapter_8/8.11.6.c)  
+[8.11.7](./code/Chapter_8/8.11.7.c)  
+[8.11.8](./code/Chapter_8/8.11.8.c)  
