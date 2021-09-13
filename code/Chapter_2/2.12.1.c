@@ -3,10 +3,10 @@
 
 int main(void)
 {
-    printf("Xiao ming\n");
-    printf("Xiao\nming\n");
-    printf("Xiao");
-    printf(" ming\n");
+    printf("koishi komeiji\n");
+    printf("koishi\nkomeiji\n");
+    printf("koishi ");
+    printf("komeiji\n");
     system("pause");
     return 0;
 }
