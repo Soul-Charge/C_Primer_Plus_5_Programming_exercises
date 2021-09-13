@@ -3,8 +3,8 @@
 
 int main(void)
 {
-    printf("Name:boy\n");
-    printf("Address:China\n");
+    printf("Name: komeiji koishi\n");
+    printf("Location: Gensoukyo\n");
     system("pause");
     return 0;
 }
