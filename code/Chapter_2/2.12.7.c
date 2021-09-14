@@ -1,23 +1,26 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void two(void);
+void one_three(void);
+
+int main(void)
+{
+    printf("starting now: \n");
+    one_three();
+    printf("done!\n");
+    system("pause");
+    return 0;
+}
+
 void two(void)
 {
-    puts("two");
+    printf("two\n");
 }
 
 void one_three(void)
 {
-    puts("one");
+    printf("one\n");
     two();
-    puts("three");
-}
-
-int main(void)
-{
-    puts("starting now:");
-    one_three();
-    system("pause");
-    puts("done!");
-    return 0;
+    printf("three\n");
 }
