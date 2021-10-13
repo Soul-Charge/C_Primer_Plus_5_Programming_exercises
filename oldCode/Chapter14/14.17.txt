@@ -1,0 +1,131 @@
+1.
+    struct 而不是 structure
+    struct 后因接标记名或花括号后接结构变量名
+    第三成员后面要有分号
+    花括号后要有分号
+
+2.
+   6 1
+   22 Spiffo Road
+   S p
+
+3.
+    struct month {
+        char name[10];
+        char abbr[4];
+        short days;
+        short number;
+    };
+
+4.
+    struct month year[12];
+    //这么多居然让我初始化
+
+5.
+    int returnDays (struct month year[],int,month)
+    {
+        int i;
+        int total;
+        
+        for (i = 0;i < month;i++)
+            total = year[i].days;
+        
+        return total;
+    }
+
+6.
+    a.
+    LENS arr[10];
+    arr[3].foclen = 500;
+    arr[3].fstop = 2.0;
+    arr[3].brand = "Remarkatar";
+
+    b.
+    LENS arr[10] = {
+        500,
+        2.0,
+        "Remarkatar"
+    };
+
+7.
+    a.
+    6
+    Arcturan
+    cturan
+
+    b.
+    deb.title.last;
+    pb->title.last;
+
+    c.
+    void show (struct bem * pb)
+    {
+        printf("%s %s is a %d-limbed %s.\n"
+            ,pb->title.first,pb->title.last,pb->limbs,pb->type);
+        return;
+    }
+
+8.
+    a.willie.born;
+    b.pt->born;
+    c.scanf("%d",&willie.born);
+    d.scanf("%d",&pt->born);
+    e.scanf("%s",willie.name.lname);
+    f.scanf("%s",pt->name.lname);
+    g.whillie.name.fname[2];
+    h.strlen(whillie.name.fname) + strlen(whillie.name.lname);
+    
+9.
+    struct car {
+        char name[30];
+        int horsepower;
+        int level;
+        float distance;
+        short years;
+    }
+
+10.
+    a.
+        struct gas funcA (struct gas)
+        {
+            gas.mpg = gas.distance / gas.gals;
+            return gas;
+        }
+
+    b.
+        void funcB (struct gas * pt)
+        {
+            pt->mpg = pt->distance / pt->gals;
+            return;
+        }
+
+11.
+    enum choices {no,yes,maybe};
+
+12.
+    char * (*pfunc) (char *p,char ch);
+
+13.
+    double func1 (double,double);
+    double func2 (double,double);
+    double func3 (double,double);
+    double func4 (double,double);
+
+    double (*pf[4]) (double,double);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
